@@ -25,6 +25,6 @@
 
 ## Top Repositories:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eeshan12&repo=Moodmelody)](https://github.com/Eeshan12/Moodmelody)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eeshan12&repo=Optichat)](https://github.com/Eeshan12/Optichat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eeshan12&repo=moodmelody)](https://github.com/Eeshan12/Moodmelody)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eeshan12&repo=optichat)](https://github.com/Eeshan12/Optichat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eeshan12&repo=DSA)](https://github.com/Eeshan12/DSA)
