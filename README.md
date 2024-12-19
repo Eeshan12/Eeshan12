@@ -19,9 +19,6 @@
 [![HTML](https://visitcount.itsvg.in/api?id=Eeshan12&label=HTML&color=4&icon=2&pretty=true)](https://github.com/Eeshan12)
 [![Flask](https://visitcount.itsvg.in/api?id=Eeshan12&label=Flask&color=4&icon=2&pretty=true)](https://github.com/Eeshan12)
 [![Streamlit](https://visitcount.itsvg.in/api?id=Eeshan12&label=Streamlit&color=4&icon=2&pretty=true)](https://github.com/Eeshan12)
-## Git Stats:
-
-![Eeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eeshan12&show_icons=true&theme=radical&cache_seconds=1800) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eeshan12&layout=donut&cache_seconds=10)](https://github.com/Eeshan12/github-readme-stats)
 
 ## Top Repositories:
 
